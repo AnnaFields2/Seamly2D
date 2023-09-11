@@ -105,25 +105,7 @@ var sectionId = 'dynsection-1';
 <!-- Node7 -->
 <g id="node6" class="node">
 <title>Node7</title>
-<g id="a_node6"><a xlink:href="../../d6/d7f/intersect__circletangent__tool_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2530.5,-178.5 2530.5,-230.5 2668.5,-230.5 2668.5,-178.5 2530.5,-178.5"/>
-<text text-anchor="start" x="2538.5" y="-218.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
-<text text-anchor="start" x="2538.5" y="-207.5" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
-<text text-anchor="start" x="2538.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/intersect</text>
-<text text-anchor="middle" x="2599.5" y="-185.5" font-family="Helvetica,sans-Serif" font-size="10.00">_circletangent_tool.h</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge6" class="edge">
-<title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M3559.65,-287.45C3383.33,-286.81 3010.26,-279.21 2699.5,-231 2689.41,-229.43 2678.85,-227.3 2668.54,-224.93"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3559.69,-290.95 3569.7,-287.48 3559.71,-283.95 3559.69,-290.95"/>
-</g>
-<!-- Node8 -->
-<g id="node7" class="node">
-<title>Node8</title>
-<g id="a_node7"><a xlink:href="../../d0/dbe/intersect__circletangent__tool_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="../../d0/dbe/intersect__circletangent__tool_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="2348.5,-89.5 2348.5,-141.5 2486.5,-141.5 2486.5,-89.5 2348.5,-89.5"/>
 <text text-anchor="start" x="2356.5" y="-129.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
 <text text-anchor="start" x="2356.5" y="-118.5" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
@@ -132,11 +114,29 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node8 -->
-<g id="edge10" class="edge">
-<title>Node1&#45;&gt;Node8</title>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge">
+<title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M3559.52,-286.42C3297.34,-284.31 2613.89,-274.63 2521.5,-231 2481.19,-211.96 2449.43,-169.47 2432.08,-141.95"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3559.77,-289.92 3569.8,-286.5 3559.83,-282.92 3559.77,-289.92"/>
+</g>
+<!-- Node8 -->
+<g id="node7" class="node">
+<title>Node8</title>
+<g id="a_node7"><a xlink:href="../../d6/d7f/intersect__circletangent__tool_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="2530.5,-178.5 2530.5,-230.5 2668.5,-230.5 2668.5,-178.5 2530.5,-178.5"/>
+<text text-anchor="start" x="2538.5" y="-218.5" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
+<text text-anchor="start" x="2538.5" y="-207.5" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
+<text text-anchor="start" x="2538.5" y="-196.5" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/intersect</text>
+<text text-anchor="middle" x="2599.5" y="-185.5" font-family="Helvetica,sans-Serif" font-size="10.00">_circletangent_tool.h</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node8 -->
+<g id="edge7" class="edge">
+<title>Node1&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M3559.65,-287.45C3383.33,-286.81 3010.26,-279.21 2699.5,-231 2689.41,-229.43 2678.85,-227.3 2668.54,-224.93"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3559.69,-290.95 3569.7,-287.48 3559.71,-283.95 3559.69,-290.95"/>
 </g>
 <!-- Node10 -->
 <g id="node9" class="node">
@@ -343,7 +343,7 @@ var sectionId = 'dynsection-1';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node52 -->
-<g id="edge75" class="edge">
+<g id="edge74" class="edge">
 <title>Node1&#45;&gt;Node52</title>
 <path fill="none" stroke="midnightblue" d="M3559.86,-285.89C3382.34,-282.88 3031,-271.78 2993.5,-231 2977.55,-213.66 2981.36,-198.18 2993.5,-178 3004.96,-158.96 3024.51,-145.5 3044.34,-136.13"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3559.94,-289.39 3569.99,-286.05 3560.05,-282.39 3559.94,-289.39"/>
@@ -360,7 +360,7 @@ var sectionId = 'dynsection-1';
 </g>
 </g>
 <!-- Node1&#45;&gt;Node54 -->
-<g id="edge74" class="edge">
+<g id="edge75" class="edge">
 <title>Node1&#45;&gt;Node54</title>
 <path fill="none" stroke="midnightblue" d="M3559.68,-286.74C3395.56,-284.99 3080.69,-275.68 2979.5,-231 2967.06,-225.51 2907.46,-167.25 2876.02,-136.02"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3559.75,-290.25 3569.79,-286.85 3559.82,-283.25 3559.75,-290.25"/>
@@ -385,24 +385,7 @@ var sectionId = 'dynsection-1';
 <!-- Node57 -->
 <g id="node44" class="node">
 <title>Node57</title>
-<g id="a_node44"><a xlink:href="../../dc/dfe/vtoolpointofintersectionarcs_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="3333.5,-95 3333.5,-136 3585.5,-136 3585.5,-95 3333.5,-95"/>
-<text text-anchor="start" x="3341.5" y="-124" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
-<text text-anchor="start" x="3341.5" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
-<text text-anchor="middle" x="3459.5" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/vtoolpointofintersectionarcs.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node57 -->
-<g id="edge79" class="edge">
-<title>Node1&#45;&gt;Node57</title>
-<path fill="none" stroke="midnightblue" d="M3605.89,-262.84C3589.33,-254.17 3571.8,-243.42 3557.5,-231 3535.42,-211.82 3537.33,-200.38 3518.5,-178 3506.21,-163.4 3491.33,-147.89 3479.58,-136.11"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3604.46,-266.04 3614.96,-267.44 3607.62,-259.8 3604.46,-266.04"/>
-</g>
-<!-- Node58 -->
-<g id="node45" class="node">
-<title>Node58</title>
-<g id="a_node45"><a xlink:href="../../dd/d11/vtoolpointofintersectionarcs_8h.html" target="_top" xlink:title=" ">
+<g id="a_node44"><a xlink:href="../../dd/d11/vtoolpointofintersectionarcs_8h.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="red" points="3269,-184 3269,-225 3510,-225 3510,-184 3269,-184"/>
 <text text-anchor="start" x="3277" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
 <text text-anchor="start" x="3277" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
@@ -410,11 +393,28 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node58 -->
-<g id="edge80" class="edge">
-<title>Node1&#45;&gt;Node58</title>
+<!-- Node1&#45;&gt;Node57 -->
+<g id="edge79" class="edge">
+<title>Node1&#45;&gt;Node57</title>
 <path fill="none" stroke="midnightblue" d="M3586.59,-264.55C3545.21,-252.16 3494.3,-236.9 3454.59,-225"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3585.77,-267.96 3596.35,-267.48 3587.77,-261.26 3585.77,-267.96"/>
+</g>
+<!-- Node58 -->
+<g id="node45" class="node">
+<title>Node58</title>
+<g id="a_node45"><a xlink:href="../../dc/dfe/vtoolpointofintersectionarcs_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="3333.5,-95 3333.5,-136 3585.5,-136 3585.5,-95 3333.5,-95"/>
+<text text-anchor="start" x="3341.5" y="-124" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
+<text text-anchor="start" x="3341.5" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
+<text text-anchor="middle" x="3459.5" y="-102" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/vtoolpointofintersectionarcs.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node58 -->
+<g id="edge82" class="edge">
+<title>Node1&#45;&gt;Node58</title>
+<path fill="none" stroke="midnightblue" d="M3605.89,-262.84C3589.33,-254.17 3571.8,-243.42 3557.5,-231 3535.42,-211.82 3537.33,-200.38 3518.5,-178 3506.21,-163.4 3491.33,-147.89 3479.58,-136.11"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3604.46,-266.04 3614.96,-267.44 3607.62,-259.8 3604.46,-266.04"/>
 </g>
 <!-- Node60 -->
 <g id="node46" class="node">
@@ -470,24 +470,7 @@ var sectionId = 'dynsection-1';
 <!-- Node64 -->
 <g id="node49" class="node">
 <title>Node64</title>
-<g id="a_node49"><a xlink:href="../../dc/db2/vtooltriangle_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="red" points="4354,-184 4354,-225 4521,-225 4521,-184 4354,-184"/>
-<text text-anchor="start" x="4362" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
-<text text-anchor="start" x="4362" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
-<text text-anchor="middle" x="4437.5" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/vtooltriangle.h</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node64 -->
-<g id="edge88" class="edge">
-<title>Node1&#45;&gt;Node64</title>
-<path fill="none" stroke="midnightblue" d="M3763.22,-284.15C3896.62,-279.15 4137.54,-265.77 4340.5,-231 4349.85,-229.4 4359.62,-227.32 4369.2,-225.05"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="3762.88,-280.66 3753.02,-284.52 3763.14,-287.65 3762.88,-280.66"/>
-</g>
-<!-- Node65 -->
-<g id="node50" class="node">
-<title>Node65</title>
-<g id="a_node50"><a xlink:href="../../de/d85/vtooltriangle_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node49"><a xlink:href="../../de/d85/vtooltriangle_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="4463.5,-95 4463.5,-136 4641.5,-136 4641.5,-95 4463.5,-95"/>
 <text text-anchor="start" x="4471.5" y="-124" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
 <text text-anchor="start" x="4471.5" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
@@ -495,11 +478,28 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node65 -->
-<g id="edge91" class="edge">
-<title>Node1&#45;&gt;Node65</title>
+<!-- Node1&#45;&gt;Node64 -->
+<g id="edge88" class="edge">
+<title>Node1&#45;&gt;Node64</title>
 <path fill="none" stroke="midnightblue" d="M3763.13,-287.26C3979.98,-286.86 4472.95,-280.44 4529.5,-231 4556.36,-207.51 4557.16,-162.2 4555.04,-136.17"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3763.01,-283.76 3753.02,-287.28 3763.02,-290.76 3763.01,-283.76"/>
+</g>
+<!-- Node65 -->
+<g id="node50" class="node">
+<title>Node65</title>
+<g id="a_node50"><a xlink:href="../../dc/db2/vtooltriangle_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="red" points="4354,-184 4354,-225 4521,-225 4521,-184 4354,-184"/>
+<text text-anchor="start" x="4362" y="-213" font-family="Helvetica,sans-Serif" font-size="10.00">src/libs/vtools/tools</text>
+<text text-anchor="start" x="4362" y="-202" font-family="Helvetica,sans-Serif" font-size="10.00">/drawTools/toolpoint</text>
+<text text-anchor="middle" x="4437.5" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">/toolsinglepoint/vtooltriangle.h</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node65 -->
+<g id="edge89" class="edge">
+<title>Node1&#45;&gt;Node65</title>
+<path fill="none" stroke="midnightblue" d="M3763.22,-284.15C3896.62,-279.15 4137.54,-265.77 4340.5,-231 4349.85,-229.4 4359.62,-227.32 4369.2,-225.05"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="3762.88,-280.66 3753.02,-284.52 3763.14,-287.65 3762.88,-280.66"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -539,15 +539,15 @@ var sectionId = 'dynsection-1';
 <path fill="none" stroke="midnightblue" d="M5036.96,-173.3C5062.69,-158.76 5092.3,-142.03 5112.69,-130.52"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="5035.03,-170.37 5028.04,-178.34 5038.47,-176.46 5035.03,-170.37"/>
 </g>
-<!-- Node7&#45;&gt;Node3 -->
-<g id="edge7" class="edge">
-<title>Node7&#45;&gt;Node3</title>
+<!-- Node8&#45;&gt;Node3 -->
+<g id="edge8" class="edge">
+<title>Node8&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M2644.27,-171.42C2652.89,-162.92 2660.72,-153 2665.5,-142 2674.9,-120.4 2680.3,-107.33 2665.5,-89 2638.28,-55.28 2519.94,-39.15 2444.57,-32.17"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2641.87,-168.87 2636.89,-178.22 2646.62,-174.02 2641.87,-168.87"/>
 </g>
-<!-- Node7&#45;&gt;Node8 -->
-<g id="edge8" class="edge">
-<title>Node7&#45;&gt;Node8</title>
+<!-- Node8&#45;&gt;Node7 -->
+<g id="edge9" class="edge">
+<title>Node8&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M2537.61,-173.92C2515.64,-163.41 2491.14,-151.7 2470.02,-141.61"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2536.33,-177.18 2546.86,-178.34 2539.35,-170.87 2536.33,-177.18"/>
 </g>
@@ -562,9 +562,9 @@ var sectionId = 'dynsection-1';
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node9 -->
-<g id="edge9" class="edge">
-<title>Node7&#45;&gt;Node9</title>
+<!-- Node8&#45;&gt;Node9 -->
+<g id="edge10" class="edge">
+<title>Node8&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M2591.85,-168.49C2589.44,-157.45 2586.87,-145.65 2584.78,-136.08"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2588.45,-169.31 2594,-178.34 2595.29,-167.82 2588.45,-169.31"/>
 </g>
@@ -1144,15 +1144,15 @@ var sectionId = 'dynsection-1';
 <path fill="none" stroke="midnightblue" d="M2824.26,-174.93C2831.27,-162.23 2839.34,-147.61 2845.65,-136.16"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2821.16,-173.31 2819.39,-183.76 2827.29,-176.69 2821.16,-173.31"/>
 </g>
-<!-- Node58&#45;&gt;Node3 -->
-<g id="edge81" class="edge">
-<title>Node58&#45;&gt;Node3</title>
+<!-- Node57&#45;&gt;Node3 -->
+<g id="edge80" class="edge">
+<title>Node57&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M3361.18,-176.7C3325.59,-143.06 3268.96,-89.64 3267.5,-89 3192.69,-56.36 2636.06,-35.67 2444.81,-29.47"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3359.18,-179.63 3368.85,-183.96 3363.99,-174.55 3359.18,-179.63"/>
 </g>
-<!-- Node58&#45;&gt;Node57 -->
-<g id="edge82" class="edge">
-<title>Node58&#45;&gt;Node57</title>
+<!-- Node57&#45;&gt;Node58 -->
+<g id="edge81" class="edge">
+<title>Node57&#45;&gt;Node58</title>
 <path fill="none" stroke="midnightblue" d="M3411.9,-175.67C3422.25,-162.8 3434.29,-147.83 3443.68,-136.16"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3408.93,-173.77 3405.38,-183.76 3414.38,-178.16 3408.93,-173.77"/>
 </g>
@@ -1168,15 +1168,15 @@ var sectionId = 'dynsection-1';
 <path fill="none" stroke="midnightblue" d="M4202.77,-177.34C4218.53,-164.15 4237.34,-148.42 4251.88,-136.26"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="4200.26,-174.87 4194.84,-183.98 4204.76,-180.24 4200.26,-174.87"/>
 </g>
-<!-- Node64&#45;&gt;Node3 -->
-<g id="edge89" class="edge">
-<title>Node64&#45;&gt;Node3</title>
+<!-- Node65&#45;&gt;Node3 -->
+<g id="edge90" class="edge">
+<title>Node65&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M4441.38,-173.47C4442.94,-146.93 4440.21,-109.37 4416.5,-89 4339.99,-23.27 2782.24,-25.85 2444.66,-27.19"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="4437.86,-173.48 4440.53,-183.73 4444.84,-174.06 4437.86,-173.48"/>
 </g>
-<!-- Node64&#45;&gt;Node65 -->
-<g id="edge90" class="edge">
-<title>Node64&#45;&gt;Node65</title>
+<!-- Node65&#45;&gt;Node64 -->
+<g id="edge91" class="edge">
+<title>Node65&#45;&gt;Node64</title>
 <path fill="none" stroke="midnightblue" d="M4471.6,-177.71C4489.13,-164.44 4510.16,-148.53 4526.38,-136.26"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="4469.17,-175.15 4463.31,-183.98 4473.39,-180.73 4469.17,-175.15"/>
 </g>
