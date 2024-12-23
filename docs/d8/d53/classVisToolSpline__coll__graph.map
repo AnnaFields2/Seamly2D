@@ -1,14 +1,25 @@
 <map id="VisToolSpline" name="VisToolSpline">
-<area shape="rect" id="node1" title=" " alt="" coords="627,1527,802,1941"/>
-<area shape="rect" id="node2" href="$db/d76/classVisPath.html" title=" " alt="" coords="471,1299,601,1449"/>
-<area shape="rect" id="node3" href="$d7/d24/classVisualization.html" title=" " alt="" coords="143,644,305,1249"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,255,80,332"/>
-<area shape="rect" id="node5" href="$d2/d83/classVContainer.html" title="The VContainer class container of all variables." alt="" coords="105,5,343,581"/>
-<area shape="rect" id="node6" href="$d3/d85/classVCurvePathItem.html" title=" " alt="" coords="450,857,622,1037"/>
-<area shape="rect" id="node7" title=" " alt="" coords="368,255,515,332"/>
-<area shape="rect" id="node8" href="$d5/dc2/classQVector.html" title=" " alt="" coords="539,247,725,339"/>
-<area shape="rect" id="node9" href="$d5/dc2/classQVector.html" title=" " alt="" coords="749,255,904,332"/>
-<area shape="rect" id="node10" href="$d8/dbf/classVScaledEllipse.html" title=" " alt="" coords="638,1313,791,1435"/>
-<area shape="rect" id="node11" title=" " alt="" coords="647,908,809,985"/>
-<area shape="rect" id="node12" href="$d5/dc2/classQVector.html" title=" " alt="" coords="816,1335,1059,1413"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="600,1891,765,2416"/>
+<area shape="rect" id="Node000002" href="$db/d76/classVisPath.html" title=" " alt="" coords="451,1648,573,1813"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,1825,602,1947,597,1949,548,1827"/>
+<area shape="rect" id="Node000003" href="$d7/d24/classVisualization.html" title=" " alt="" coords="135,813,289,1599"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,1377,355,1487,420,1597,454,1648,449,1651,415,1600,351,1490,293,1380"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,345,72,411"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="45,424,59,570,71,660,87,750,110,855,138,958,133,960,105,856,81,751,66,661,54,570,39,425"/>
+<area shape="rect" id="Node000005" href="$d2/d83/classVContainer.html" title="The VContainer class container of all variables." alt="" coords="97,5,327,751"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="215,751,215,796,209,796,209,751"/>
+<area shape="rect" id="Node000006" href="$d3/d85/classVCurvePathItem.html" title=" " alt="" coords="430,1103,594,1309"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="515,1323,515,1648,509,1648,509,1323"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="352,345,491,411"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="429,424,504,1103,498,1104,424,424"/>
+<area shape="rect" id="Node000008" href="$d5/dc2/classQVector.html" title=" " alt="" coords="515,338,693,418"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="602,418,528,1088,522,1087,597,418"/>
+<area shape="rect" id="Node000009" href="$d5/dc2/classQVector.html" title=" " alt="" coords="717,345,864,411"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="796,411,798,487,789,589,777,644,759,697,733,747,699,791,688,800,675,804,652,804,629,804,619,807,609,815,585,844,565,875,536,945,520,1018,513,1087,507,1086,515,1017,531,944,560,873,580,841,605,811,617,803,629,799,652,799,675,799,685,795,695,787,729,744,754,695,772,642,783,588,792,487,791,411"/>
+<area shape="rect" id="Node000010" href="$d8/dbf/classVScaledEllipse.html" title=" " alt="" coords="610,1668,755,1793"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="685,1794,685,1874,680,1874,680,1794"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="619,1173,773,1239"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="698,1252,687,1668,682,1668,692,1252"/>
+<area shape="rect" id="Node000012" href="$d5/dc2/classQVector.html" title=" " alt="" coords="780,1698,1015,1763"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="884,1765,775,1977,770,1974,879,1762"/>
 </map>

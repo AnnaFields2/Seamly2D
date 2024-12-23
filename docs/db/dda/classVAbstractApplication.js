@@ -32,7 +32,7 @@ var classVAbstractApplication =
     [ "Settings", "db/dda/classVAbstractApplication.html#aaf7f1160ef591e625cb67d208c6eb6c8", null ],
     [ "toPixel", "db/dda/classVAbstractApplication.html#a82a68e4e4625193cb2cb439325ab8699", null ],
     [ "translationsPath", "db/dda/classVAbstractApplication.html#a7f8f1033b717fb83f76d40aea526db87", null ],
-    [ "TrVars", "db/dda/classVAbstractApplication.html#ac1c05c6d5ad38bc3c1996ad500f818bc", null ],
+    [ "TrVars", "db/dda/classVAbstractApplication.html#a4f3cfdba4c0321560ec5c1445a67b9cb", null ],
     [ "_patternType", "db/dda/classVAbstractApplication.html#a2e09cc95b39f6b8d057dc9c15b57f64a", null ],
     [ "_patternUnit", "db/dda/classVAbstractApplication.html#a0c3f2f86e53faf19f81c5748127fc6be", null ],
     [ "appTranslator", "db/dda/classVAbstractApplication.html#a6f59fff51e1dd866f7366475dedfb449", null ],
