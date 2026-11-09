@@ -1,11 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"d2/dfd/classVEllipticalArcData.html#a2e18fbbb4b7f3af5e9bafd4bf64abef5":[1,0,266,7],
-"d2/dfd/classVEllipticalArcData.html#a4b0f7eaa0fd210bc5eed79f04d96279a":[1,0,266,2],
-"d2/dfd/classVEllipticalArcData.html#a4ea02864ba1a468aaa2525713fb047d4":[1,0,266,9],
-"d2/dfd/classVEllipticalArcData.html#a8920db639e981f0217fe4ee1e4dbca73":[1,0,266,11],
-"d2/dfd/classVEllipticalArcData.html#a920642f51a5421b9efd47d616609beed":[1,0,266,1],
-"d2/dfd/classVEllipticalArcData.html#ab031c088e4c8dd7f3f7c2f76d5520a53":[1,0,266,10],
 "d2/dfd/classVEllipticalArcData.html#adee40e76cb6119cd0691e0e78bfb0496":[1,0,266,12],
 "d2/dfd/classVEllipticalArcData.html#ae3e0b16da4ae898d1e98b80cfc4d36a9":[1,0,266,6],
 "d2/dfd/classVEllipticalArcData.html#af409b8b24fcac0af64ac6708bbbd8bb5":[1,0,266,4],
@@ -104,7 +98,6 @@ var NAVTREEINDEX10 =
 "d3/d23/dialogshoulderpoint_8cpp.html":[2,0,0,1,12,0,1,57],
 "d3/d23/dialogshoulderpoint_8cpp_source.html":[2,0,0,1,12,0,1,57],
 "d3/d2b/vtoolmove_8cpp.html":[2,0,0,1,12,1,0,0,3],
-"d3/d2b/vtoolmove_8cpp.html#a2f7cb2fa85efab3c7cc6db3569f5bd15":[2,0,0,1,12,1,0,0,3,0],
 "d3/d2b/vtoolmove_8cpp_source.html":[2,0,0,1,12,1,0,0,3],
 "d3/d2e/dialogcutspline_8cpp.html":[2,0,0,1,12,0,1,21],
 "d3/d2e/dialogcutspline_8cpp_source.html":[2,0,0,1,12,0,1,21],
@@ -192,7 +185,6 @@ var NAVTREEINDEX10 =
 "d3/d49/visualization_8cpp.html":[2,0,0,1,12,3,2],
 "d3/d49/visualization_8cpp_source.html":[2,0,0,1,12,3,2],
 "d3/d49/vpattern_8cpp.html":[2,0,0,0,0,2,0],
-"d3/d49/vpattern_8cpp.html#a88e46586c7b4f973617a0afb53d5b536":[2,0,0,0,0,2,0,0],
 "d3/d49/vpattern_8cpp_source.html":[2,0,0,0,0,2,0],
 "d3/d4a/vgrainlinedata_8h.html":[2,0,0,1,9,0,5],
 "d3/d4a/vgrainlinedata_8h_source.html":[2,0,0,1,9,0,5],
@@ -249,5 +241,13 @@ var NAVTREEINDEX10 =
 "d3/d63/classMeasurementDatabaseDialog.html#a305e9c1b8f10fc890f56463b9f2b8953":[1,0,110,55],
 "d3/d63/classMeasurementDatabaseDialog.html#a326f16fed6149461f5bc5f23910556e7":[1,0,110,57],
 "d3/d63/classMeasurementDatabaseDialog.html#a32e4e95a5ac36200c1ab965a9cad5aa7":[1,0,110,35],
-"d3/d63/classMeasurementDatabaseDialog.html#a3b0d518a946ca3128d8786094c09336a":[1,0,110,13]
+"d3/d63/classMeasurementDatabaseDialog.html#a3b0d518a946ca3128d8786094c09336a":[1,0,110,13],
+"d3/d63/classMeasurementDatabaseDialog.html#a3b9fb09abab711034df10235a74f1be6":[1,0,110,7],
+"d3/d63/classMeasurementDatabaseDialog.html#a42d5bed78930e19fa7059a2bd26cc277":[1,0,110,11],
+"d3/d63/classMeasurementDatabaseDialog.html#a45ed834ad736ae26970da56be0936dda":[1,0,110,4],
+"d3/d63/classMeasurementDatabaseDialog.html#a4793a945194eccb38811737a2f095ae5":[1,0,110,51],
+"d3/d63/classMeasurementDatabaseDialog.html#a4be131636ad892949b770300fe80d1e6":[1,0,110,61],
+"d3/d63/classMeasurementDatabaseDialog.html#a4be78043d0850d01b57d5ee66a36d906":[1,0,110,30],
+"d3/d63/classMeasurementDatabaseDialog.html#a4dae3e52d0473eaa161748d8e5ba5fd7":[1,0,110,46],
+"d3/d63/classMeasurementDatabaseDialog.html#a4f60f6362e5f8ef27cfa6f04c42d1e04":[1,0,110,28]
 };

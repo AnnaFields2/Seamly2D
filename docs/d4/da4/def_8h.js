@@ -1,8 +1,8 @@
 var def_8h =
 [
     [ "CustomSARecord", "dc/d74/structCustomSARecord.html", "dc/d74/structCustomSARecord" ],
-    [ "QxtPrivate< PUB >", "db/d14/classQxtPrivate.html", "db/d14/classQxtPrivate" ],
-    [ "QxtPrivateInterface< PUB, PVT >", "de/ddc/classQxtPrivateInterface.html", "de/ddc/classQxtPrivateInterface" ],
+    [ "QxtPrivate&lt; PUB &gt;", "db/d14/classQxtPrivate.html", "db/d14/classQxtPrivate" ],
+    [ "QxtPrivateInterface&lt; PUB, PVT &gt;", "de/ddc/classQxtPrivateInterface.html", "de/ddc/classQxtPrivateInterface" ],
     [ "__has_cpp_attribute", "d4/da4/def_8h.html#aeed0a618f017e128a5d8654754f792db", null ],
     [ "QIMAGE_MAX", "d4/da4/def_8h.html#abb52cf8f360453bdd87e44d6dcf17ce9", null ],
     [ "QXT_D", "d4/da4/def_8h.html#ad2abcc48ab132b008a0976cda54786c2", null ],

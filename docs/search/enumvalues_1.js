@@ -2,7 +2,7 @@ var searchData=
 [
   ['backslashescape_0',['BackslashEscape',['../de/db3/classQxtCsvModel.html#a81cf512c562674f89d187746052e6a31a18cc2ddfc57fb9d42bceaac1c013e2a4',1,'QxtCsvModel']]],
   ['basepoint_1',['BasePoint',['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a794fdf7ea22e73af20feb0e3aecdc010',1,'def.h']]],
-  ['bisector_2',['bisector',['../d4/da4/def_8h.html#a5b666b3acf56b84f9f3fadeef9d571b4a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h']]],
+  ['bisector_2',['Bisector',['../d4/da4/def_8h.html#a5b666b3acf56b84f9f3fadeef9d571b4a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h'],['../d4/da4/def_8h.html#ab8460ab56e3e92e57d3ed3b717492395a4e3c3e18ebb64f7aaaa75ea75475ecf8',1,'Bisector:&#160;def.h']]],
   ['bmp_3',['BMP',['../d4/da4/def_8h.html#a1f9b518e0e2d2c25a541f09e2e49a9d8aa5d5ca1447586e23dc011f8c0cc0a6db',1,'def.h']]],
   ['bothquotes_4',['BothQuotes',['../de/db3/classQxtCsvModel.html#a81cf512c562674f89d187746052e6a31a59a0c0d62846b0919701fe89c8abfdbf',1,'QxtCsvModel']]],
   ['byfirstedgerightangle_5',['ByFirstEdgeRightAngle',['../d4/da4/def_8h.html#a2fedf9fccccc9531756a26b2128252e2a14a082df2cdd2b16b3b2e4cfc3098a13',1,'def.h']]],

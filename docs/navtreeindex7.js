@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"d1/dde/classAddToGroupDialog.html#aee26b02e66b0e3e0dbf9c50c31ebfb56":[1,0,12,0],
 "d1/dde/classAddToGroupDialog.html#af43ea6adf67ecb3a896559ba178f0ff7":[1,0,12,1],
 "d1/dde/vpropertyformwidget__p_8h.html":[2,0,0,1,10,21],
 "d1/dde/vpropertyformwidget__p_8h_source.html":[2,0,0,1,10,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "d2/d43/classDialogLineIntersectAxis.html#a3c7532b54712b31a5c3d20f6de577094":[1,0,53,2],
 "d2/d43/classDialogLineIntersectAxis.html#a3d11d13182dbb2d9e4b43829e0fa59b2":[1,0,53,6],
 "d2/d43/classDialogLineIntersectAxis.html#a3f4aa668629340b08aa4f2e7bdd73982":[1,0,53,3],
-"d2/d43/classDialogLineIntersectAxis.html#a45f4fe3e41b472615a327bdca9749df5":[1,0,53,7]
+"d2/d43/classDialogLineIntersectAxis.html#a45f4fe3e41b472615a327bdca9749df5":[1,0,53,7],
+"d2/d43/classDialogLineIntersectAxis.html#a579b51fd2eaf5e4aea69386b66c71c74":[1,0,53,14]
 };
